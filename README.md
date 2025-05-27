@@ -1,6 +1,6 @@
-# Error-Technologies-Assignment-Main
 
-# Lead Generation System with n8n Integration
+# Lead Generation System with Email Notifications and n8n Workflow Automation
+
 
 A complete lead generation system with a React frontend, Express backend, and n8n workflow automation for email notifications.
 
